@@ -1,5 +1,7 @@
 Hello John
 
-Abc
+Abcdef 
 
-ghijk
+xyz
+
+last from conflict
